@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectible
+  - Enemy_Barrier
+  - Enemy
+  - Enemy_Projectile
+  - Player_Projectile
+  - Enemy_Turret
+  - Enemy_Walker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4195813765
+    locked: 0
+  - name: Player
+    uniqueID: 2472932735
+    locked: 0
+  - name: Enemies
+    uniqueID: 3654264365
+    locked: 0
+  - name: Collectibles
+    uniqueID: 4106646041
+    locked: 0
